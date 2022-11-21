@@ -1,2 +1,2 @@
 # start-up
-1st Github Repository/Project 123
+1st Github Repository/Project
